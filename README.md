@@ -11,8 +11,8 @@ Uses JSON for structured task storage and demonstrates Python fundamentals in a 
 -  View all tasks with completion status  
 -  Mark tasks as completed  
 -  Delete tasks  
--  Save tasks to a JSON file (`tasks.json`)  
--  Load tasks from a JSON file (`tasks.json`)  
+-  Save tasks to a JSON file (tasks.json)  
+-  Load tasks from a JSON file (tasks.json)  
 
 ---
 
@@ -20,9 +20,9 @@ Uses JSON for structured task storage and demonstrates Python fundamentals in a 
 - Variables & data types  
 - Lists & dictionaries  
 - Functions & modular code  
-- Loops (`for`, `while`) & conditionals (`if/else`)  
-- File handling with JSON (`json` module)  
-- Exception handling (`try/except`)  
+- Loops(for, while) & conditionals (if/else)  
+- File handling with JSON (json module)  
+- Exception handling (try/except)
 - Terminal input/output  
 
 ---
@@ -34,10 +34,6 @@ python-task-manager-pro/
 └── README.md         # Documentation  
 
 ---
-
- Requirements  
-Python 3.6+  
-No external libraries  
 
 ---
 
