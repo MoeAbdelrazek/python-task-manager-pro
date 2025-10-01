@@ -41,13 +41,6 @@ No external libraries
 
 ---
 
- Installation & Running  
-git clone https://github.com/YOUR-USERNAME/python-task-manager-pro.git  
-cd python-task-manager-pro  
-python task_manager.py  
-
----
-
  Usage  
 When you run the program, you’ll see:  
 
